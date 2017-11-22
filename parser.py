@@ -28,5 +28,3 @@ def Rice(a):
     # data = "".join(data)
     # data = data.replace("$","")
     return data
-
-Rice(0)
